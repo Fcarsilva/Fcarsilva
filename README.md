@@ -6,8 +6,8 @@
 
 ## 🚀 Sobre mim
 
-Sou Engenheiro de Plataformas com experiência em DevOps, Cloud, Observabilidade e Segurança de Redes.
-Tenho paixão por construir sistemas completos, unindo infraestrutura, automação e programação para entregar soluções de ponta a ponta.
+Sou **Engenheiro de Plataformas** com experiência em **DevOps, Cloud, Observabilidade e Segurança de Redes.**
+Tenho paixão por construir **sistemas completos**, unindo infraestrutura, automação e programação para entregar soluções de ponta a ponta.
 Meu foco é criar ambientes confiáveis, escaláveis e monitoráveis, sempre buscando eficiência e inovação em cenários complexos.
 
 ---
