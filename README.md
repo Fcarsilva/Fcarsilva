@@ -17,7 +17,7 @@ Meu foco é criar ambientes confiáveis, escaláveis e monitoráveis, sempre bus
 - ☁️ **Cloud Computing** – **Azure** e **AWS**  
 - 📊 **Observabilidade e Monitoramento**  
 - 🔒 **Segurança de Redes (Network Security)**  
-- 💻 **Programação (Python e scripts)** – apoio em automações e integrações  
+- 💻 **Programação (Python,Java,GO)** – apoio em automações e integrações  
 - 🛠️ **Criação de sistemas completos** (infra + automação + código)   
 
 ---
