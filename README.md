@@ -14,11 +14,11 @@ Meu foco é criar ambientes confiáveis, escaláveis e monitoráveis, sempre bus
 
 ## 🚀 O que eu faço hoje  
 - 🔧 **Automação de Infraestrutura** (CI/CD, IaC)  
-- ☁️ **Cloud Computing** – **Azure** e **AWS**  
-- 📊 **Observabilidade e Monitoramento**  
-- 🔒 **Segurança de Redes (Network Security)**  
+- ☁️ **Cloud Computing** – **Azure** e **AWS**.  
+- 📊 **Observabilidade e Monitoramento**. 
+- 🔒 **Segurança de Redes (Network Security)**.  
 - 💻 **Programação (Python,Java,GO)** – apoio em automações e integrações.  
-- 🛠️ **Criação de sistemas completos** (infra + automação + código)   
+- 🛠️ **Criação de sistemas completos** (infra + automação + código).   
 
 ---
 
