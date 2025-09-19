@@ -41,15 +41,14 @@ Meu foco é criar ambientes confiáveis, escaláveis e monitoráveis, sempre bus
 
 ## 🛠️ Competências Técnicas
 
-- **Sistemas Operacionais**: Linux e Windows  
-- **Contêineres**: Docker e Kubernetes  
-- **Nuvem**: Microsoft Azure  
-- **Scripting & Automação**: Python, Bash, PowerShell, n8n, Power Automate  
-- **Controle de Versão**: Git e GitHub  
-- **Monitoramento e Observabilidade**: Zabbix, Datadog, Site24x7, Grafana, ELK Stack
+- **Sistemas Operacionais**: Linux e Windows.  
+- **Contêineres**: Docker e Kubernetes. 
+- **Nuvem**: Microsoft Azure.  
+- **Scripting & Automação**: Python, Bash, PowerShell.  
+- **Controle de Versão**: Git e GitHub.  
+- **Monitoramento e Observabilidade**: Zabbix, Datadog, Grafana.
 - **APIs & Testes**: Netconf, Restconf, YANG Models, XML, JSON, YAML, Postman  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Business Intelligence**: Power BI  
 - **Gestão de Projetos**: Confluence, Jira e Azure DevOps  
 - **Metodologias Ágeis**: Scrum e Kanban  
 
