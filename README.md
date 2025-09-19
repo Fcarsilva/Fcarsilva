@@ -47,10 +47,10 @@ Meu foco é criar ambientes confiáveis, escaláveis e monitoráveis, sempre bus
 - **Scripting & Automação**: Python, Bash, PowerShell.  
 - **Controle de Versão**: Git e GitHub.  
 - **Monitoramento e Observabilidade**: Zabbix, Datadog, Grafana.
-- **APIs & Testes**: Netconf, Restconf, YANG Models, XML, JSON, YAML, Postman  
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Gestão de Projetos**: Confluence, Jira e Azure DevOps  
-- **Metodologias Ágeis**: Scrum e Kanban  
+- **APIs & Testes**: Netconf, Restconf, YANG Models, XML, JSON, YAML, Postman. 
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap.
+- **Gestão de Projetos**: Confluence, Jira e Azure DevOps.  
+- **Metodologias Ágeis**: Scrum e Kanban. 
 
 ---
 
